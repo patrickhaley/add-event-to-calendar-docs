@@ -1,0 +1,18 @@
+repo_name: patrickhaley/add-event-to-calendar-docs
+report_id: 327623871539e3cae1a786f247cf9a28
+repo_type: Public
+timestamp: '2023-12-06T20:27:32+00:00'
+requested_by: patrickhaley
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
